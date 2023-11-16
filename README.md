@@ -1,4 +1,4 @@
-# Airbnb-New-York-City-Market-Analysis
+# Airbnb-New-York-City-Market-Analysis :chart_with_downwards_trend:
 ## Scope :page_with_curl:
 This report is focused on analysing Airbnb's New York City Market, which is made up of 3 datasets, airbnb_last_review.csv, airbnb_price.csv and airbnb_room_type.xlsx. 
 Useful insights were obtained and key questions were answered.
