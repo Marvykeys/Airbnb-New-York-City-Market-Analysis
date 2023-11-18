@@ -75,7 +75,7 @@ d) How do Airbnb listing prices compare across the five NYC Boroughs?
 
 ## The Dashboard Before Design
 
-<img width="600" alt="AIRBNB SCREENSHOT" src="https://github.com/Marvykeys/Airbnb-New-York-City-Market-Analysis/assets/130637591/7f9a0168-5945-4cc2-b160-f6b3674d9053">
+<img width="850" alt="AIRBNB SCREENSHOT" src="https://github.com/Marvykeys/Airbnb-New-York-City-Market-Analysis/assets/130637591/7f9a0168-5945-4cc2-b160-f6b3674d9053">
 
 ## THE FINAL INTERACTIVE DASHBOARD :art:
 https://app.powerbi.com/view?r=eyJrIjoiOWIyYzc0OWQtZTE1OC00MGNkLTg4ZmMtYmU3YzhiOWY0YWRlIiwidCI6IjE5NmUyMGNhLWY4NDgtNGRiYy1iODEyLTAxMjVjZGE4NjQ5NCJ9
