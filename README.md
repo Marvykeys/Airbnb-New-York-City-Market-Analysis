@@ -63,19 +63,19 @@ I changed the format for all entries in the room_type column to be all lowercase
 
 <img width="399" alt="Airbnb 12" src="https://github.com/Marvykeys/Airbnb-New-York-City-Market-Analysis/assets/130637591/b890d9fd-2a2b-4fcc-ba0e-5010b4424d9d">
 
-## Analysis Questions Answered :bar_chart:
+## Insights gathered  :bar_chart:
 
-a) What is the average price per night of an Airbnb listing?
+a) The average price per night of an Airbnb listing?
 
-b) How does the average price of an Airbnb listing, per month, compare to the private rental market?
+b) The average price of an Airbnb listing, per month, compared to the private rental market?
 
-c) How many adverts are for private rooms?
+c) The number of adverts for private rooms?
 
-d) How do Airbnb listing prices compare across the five NYC Boroughs?                                         
+d) Airbnb listing prices comparisons across the five NYC Boroughs?                                         
 
 ## The Dashboard Before Design
 
 <img width="850" alt="AIRBNB SCREENSHOT" src="https://github.com/Marvykeys/Airbnb-New-York-City-Market-Analysis/assets/130637591/7f9a0168-5945-4cc2-b160-f6b3674d9053">
 
 ## THE FINAL INTERACTIVE DASHBOARD :art:
-https://app.powerbi.com/view?r=eyJrIjoiOWIyYzc0OWQtZTE1OC00MGNkLTg4ZmMtYmU3YzhiOWY0YWRlIiwidCI6IjE5NmUyMGNhLWY4NDgtNGRiYy1iODEyLTAxMjVjZGE4NjQ5NCJ9
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWIyYzc0OWQtZTE1OC00MGNkLTg4ZmMtYmU3YzhiOWY0YWRlIiwidCI6IjE5NmUyMGNhLWY4NDgtNGRiYy1iODEyLTAxMjVjZGE4NjQ5NCJ9)
